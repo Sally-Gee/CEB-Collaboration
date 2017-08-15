@@ -1,6 +1,9 @@
 ##### 7/17/17
 ### Weather Station Data -ESL (Lower Moro Trail) from June 01, 2015 - June 01, 2017
 ### CEB-UCI
+### Travis worked on this script - adding some comments so as to evaluate how establishing a project in R leveraging an existing GitHub repository worked. I basically created a new project from an "Version Control", using the http address of the CEB-Collaboration repository.
+
+##This is another attempt at editing
 
 setwd("C:/Users/Sally/Desktop/UCI/")
 
